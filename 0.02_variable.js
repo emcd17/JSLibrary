@@ -1,16 +1,16 @@
-var x=1;
+var x=87;
 console.log(x);
 
-var y=9;
+var y=3;
 var z=x+y;
 console.log(z);
 
-var age=23;
-var spaghetti=100;
+var age=77;
+var spaghetti=56;
 
 //camel casing
-var numberOfChildren= 54;
-var myBirthYear=89;
+var numberOfChildren= 9;
+var myBirthYear=8;
 var newNumber= (z*numberOfChildren);
 console.log(newNumber);
 
