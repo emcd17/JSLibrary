@@ -1,31 +1,31 @@
 //strings are a group of characters
 //strings must go in quotes
-var jim="jim";
+var jim="tom";
 
 console.log(jim);
 
-var username= 'jim';
+var username= 'timtam';
 console.log(username);
 
 var password= '123password321';
 console.log(password);
 
-var birthCity="indianapolis";
-var birthState="indiana";
+var birthCity="juniper valley";
+var birthState="carson";
 console.log(birthCity+","+birthState);
 console.log(birthCity+","+birthState+4);
 
 //mixing strings and integers
-var ageInAugust=80;
-var highSchool="carmel hs";
+var ageInAugust=0;
+var highSchool="jamestin tech";
 var graduatedHS=1994;
 
 console.log(highSchool+ ","+ graduatedHS);
 console.log("my 'age' in august", ageInAugust);
 console.log("my \"age\" in august", ageInAugust);
 
-highSchool= "Cathedral";
-graduatedHS= 2017;
+highSchool= "jamesten central";
+graduatedHS= 7;
 console.log("I graduated from "+highSchool+" in "+graduatedHS);
 
 //String methods (functions)
